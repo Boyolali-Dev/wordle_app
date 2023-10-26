@@ -1,16 +1,18 @@
-# wordle_app
+# Wordle Game Project
 
-A new Flutter project.
+## Summary
+This project is a Flutter practice project with the goal of creating a Wordle game. Wordle is a popular word puzzle game where players have to guess a secret word within a limited number of attempts.
 
-## Getting Started
+## Design
+The project's design is based on the following Figma design file:
+[Wordle Game Design](https://www.figma.com/file/cxUVHjQuETGFKKDhgDslbP/Share-Your-Wordle-Grid-(Community)?node-id=28%3A166&mode=dev)
 
-This project is a starting point for a Flutter application.
+## Contributing
+We welcome contributions to this project! To submit a pull request, please follow the title convention as outlined in this guide:
+[Pull Request Title Convention](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716)
 
-A few resources to get you started if this is your first Flutter project:
+## Other Resources
+If you are new to Flutter or need guidance, you can refer to the BLoC library documentation for helpful resources:
+[Flutter BLoC Library Documentation](https://bloclibrary.dev/#/fluttercountertutorial)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Feel free to explore and contribute to this project. Happy coding!
